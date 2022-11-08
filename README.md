@@ -1,2 +1,6 @@
-# Laravel_Task
-Laravel 8 ile Öğrenci Kayıt İşlemi
+#Laravel 8 
+
+Repoda Laravel ile Öğrenci Kayıt Uygulaması bulunmaktadır.</br>
+Bag mevcuttur homepage sayfasına erişimde sorun yaşıyorum çözüp commit edeceğim.
+
+
